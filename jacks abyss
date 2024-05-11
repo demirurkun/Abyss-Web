@@ -1,0 +1,4 @@
+git clone https://github.com/Abyss-Services/Abyss-Web
+cd Abyss-Web
+npm install
+npm start
